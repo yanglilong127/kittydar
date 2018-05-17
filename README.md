@@ -1,3 +1,5 @@
+# 教程地址： http://harthur.github.io/txjs-slides/
+
 # Kittydar
 
 Kittydar is short for kitty radar. Kittydar takes an image (canvas) and tells you the locations of all the cats in the image:
